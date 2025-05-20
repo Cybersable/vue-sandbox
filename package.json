@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "",
   "repository": {
-    "url": ""
+    "url": "https://github.com/Cybersable/vue-sandbox"
   },
   "scripts": {
     "dev": "vite",

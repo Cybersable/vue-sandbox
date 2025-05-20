@@ -9,6 +9,12 @@
     <a href="https://element-plus.org/" target="_blank">
       <img src="/element-plus-logo-small.svg" class="logo element-plus" alt="Element Plus logo">
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="../assets/typescript.svg" class="logo ts" alt="TS logo">
+    </a>
+    <a href="https://www.ag-grid.com/" target="_blank">
+      <img src="../assets/ag-grid.svg" class="logo ag-grid" alt="AgGrid logo">
+    </a>
   </div>
 </template>
 
